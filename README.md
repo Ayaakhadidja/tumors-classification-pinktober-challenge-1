@@ -1,5 +1,5 @@
-Cancer-Tumor-Classification
-~ by lemon, ayaa and nayla
+# Cancer-Tumor-Classification
+~ *by lemon, ayaa and nayla*
 
 This repo will contain the notebook we worked on for the first challenge of Pinktober 2024.
 
